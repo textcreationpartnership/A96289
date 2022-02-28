@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Whartons speech, to the petitioners for peace: on the eighth of December, at Habberdashers-hall, in London. VVith the true relation of all their proceedings therin. Also the lord maiors message to them, concerning the delivering their petition to the Parliament. VVith many more remarkable passages.</title>
+            <author>Wharton, Philip Wharton, Baron, 1613-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96289</idno>
+            <idno type="STC">Wing W1573</idno>
+            <idno type="STC">Thomason E129_33</idno>
+            <idno type="STC">ESTC R16603</idno>
+            <idno type="EEBO-CITATION">99860060</idno>
+            <idno type="PROQUEST">99860060</idno>
+            <idno type="VID">156293</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96289)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156293)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E129[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Whartons speech, to the petitioners for peace: on the eighth of December, at Habberdashers-hall, in London. VVith the true relation of all their proceedings therin. Also the lord maiors message to them, concerning the delivering their petition to the Parliament. VVith many more remarkable passages.</title>
+                  <author>Wharton, Philip Wharton, Baron, 1613-1696.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Decemb. 12. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wharton, Philip Wharton, --  Baron, 1613-1696 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156293:1"/>
+            <pb facs="tcp:156293:1" rendition="simple:additions"/>
+            <p>The Lord <hi>Whartons</hi> Speech, To the Petitioners for PEACE: On the eighth of <hi>December,</hi> at <hi>Habberdaſhers-Hall,</hi> in LONDON.</p>
+            <p>VVith the true relation of all their proceedings therin.</p>
+            <p>Alſo the Lord Maiors Meſſage to them, concerning the delivering their Petition to the Parliament.</p>
+            <p>VVith many more remarkeble paſſages.</p>
+            <p>
+               <hi>London</hi> Printed, for <hi>J. H. Decemb.</hi> 12. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:156293:2"/>
+            <pb facs="tcp:156293:2"/>
+            <head>The Lord <hi>Whartons</hi> Speech to the Petitioners for Peace, on the ninth of <hi>December,</hi> at <hi>Habber<g ref="char:EOLhyphen"/>daſhers</hi>-Hall, in LONDON</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here hath (it is apparently mani<g ref="char:EOLhyphen"/>feſt) a great party which have joyn<g ref="char:EOLhyphen"/>ned privately to<g ref="char:EOLhyphen"/>gether, and framed a Petition, with in<g ref="char:EOLhyphen"/>tent to preſent it to the High Court of Parliament, (the particulars whereof I ſhall for the pre<g ref="char:EOLhyphen"/>ſent forbeare to mention) onely, the car<g ref="char:EOLhyphen"/>riage of it in ſome ſpeciall particulars, I ſhall remonſtrate unto you</p>
+            <pb facs="tcp:156293:3"/>
+            <p> On Thurſday laſt in <hi>Cornwall,</hi> a man of a conſiderable fortune was taken ga<g ref="char:EOLhyphen"/>thering hands to the ſaid Petition, which being diſcovered by an Officer, (know<g ref="char:EOLhyphen"/>ing that if ſuch things were ſuffered, it would go neare to breed a Commotion in the City) therefore he carried the a<g ref="char:EOLhyphen"/>foreſaid perſon before the Lord Major, who after examination, tooke the ſaid Petition from him, and gave the Officer command to carry him up to the Par<g ref="char:EOLhyphen"/>liament, but after a little time ſpent in conſideration of this buſineſſe, his Lord<g ref="char:EOLhyphen"/>ſhip altered his former intention, and gave Command to reſtraine the ſaid per<g ref="char:EOLhyphen"/>ſon till night, intimating that at night certaine Lords would be at Habbar<g ref="char:EOLhyphen"/>daſhers Hall, and then he ſhould be car<g ref="char:EOLhyphen"/>ried before them.</p>
+            <p>The Officer having received this com<g ref="char:EOLhyphen"/>mand, went from the Lord Majors, and having gone a little way, the man began to conſider with himſelfe, and demand<g ref="char:EOLhyphen"/>ed whether the ſayd Officer would car<g ref="char:EOLhyphen"/>ry
+<pb facs="tcp:156293:3"/>him, he replyed, to remaine in cuſto<g ref="char:EOLhyphen"/>dy till ſuch time as the Lords ſhould come into the City, he demanded where his Warrant was, anſwer was made, that he had no other warrant then my Lord Majors Command, he replyed, that he would not then obey him, the Officer commanded him them to go backe to the Lord Majors, he denied that like<g ref="char:EOLhyphen"/>wiſe, and would neither go forward nor backeward, inſomuch that the ſaid Of<g ref="char:EOLhyphen"/>ficer was inforced to command the paſ<g ref="char:EOLhyphen"/>ſengers to aid him, which was according<g ref="char:EOLhyphen"/>ly done, and he carried to ſome place of reſtraint.</p>
+            <p>This was noyſed about the City, e<g ref="char:EOLhyphen"/>ſpecially among that faction, for in a ſhort time there were aſſembled neere 300. with Torches, and Linkes, who in a Tumultuous manner went to Hab<g ref="char:EOLhyphen"/>berdaſhers-Hall, every man thinking himſelfe happy that could get in firſt, being come in, they began to call out with loud acclamations, <hi>A Petition, A
+<pb facs="tcp:156293:4"/>Petition,</hi> the Lords having had notice of their intention, and the chiefe cauſe of their Aſsembly, (namely the Lord <hi>Whar<g ref="char:EOLhyphen"/>ton,</hi>) applyed himſelfe unto them, and ſpake to this effect.</p>
+            <p>
+               <hi>That they had received information of of their intentions, but for their parts they were ſent upon a Meſſage from the Houſe, which according to their duties they now came to diſcharge, but for the receiving of their Petition, they could not do it; therefore they muſt apply themſelves to the Houſes of Par<g ref="char:EOLhyphen"/>liament, from whom Doubtleſſe they ſhould r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ceceive ſufficient ſaisfaction concerning their deſires.</hi>
+            </p>
+            <p>This for the preſent ſatisfied them, ſo that then they cryed out, To their firſt Reſolution, to their firſt reſolution, then away they went toward my Lord Ma<g ref="char:EOLhyphen"/>jors, but before they could get thither, a Trained-Band ſtood at the Lord Ma<g ref="char:EOLhyphen"/>jors, Gate to entertaine them, which they ſeeing, preſently altered their reſo<g ref="char:EOLhyphen"/>lution, and went to the <hi>Guild-Hall,</hi> com<g ref="char:EOLhyphen"/>ming thither they found the Gates ſhut
+<pb facs="tcp:156293:4"/>up, but after ſome ſmall time the Gates were opened, and they went into the great-Hall, where being arrived, they went up to the end of the Hall, where one of the chiefe of them read the Peti<g ref="char:EOLhyphen"/>tion with a loud voice, ſo that all that were there preſent might heare the ſame.</p>
+            <p>After the reading of which, there was a great Humme, and applauſe, by their owne Faction, then a generall cry was made, that all men that ſtood affected to that cauſe, ſhould draw neare and ſubſcribe.</p>
+            <p>During this buſineſse, there was a Troope of Horſe came into the Yard, and two Companies of the Trained-Bands, which they ſeeing, began to ſeperate themſelves.</p>
+            <p>At which time one of the chiefe of their Company came from the old Ma<g ref="char:EOLhyphen"/>jors with this Meſsage.</p>
+            <p>That for their Petition, he would deliver it to the Houſe, and if it were
+<pb facs="tcp:156293:5"/>reliſhed, and approved of by them, they might then lawfully proceed, but if not they muſt expect the iſſue.</p>
+            <p>They having received this anſwer, de<g ref="char:EOLhyphen"/>parted every man to his Habitation.</p>
+            <p>What the event will be, is not yet knowne, but it is greatly to be feared, if theſe factions be ſuffered to grow to a head, <hi>London</hi> will become a ſecond <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> and be deſtroyed by her owne children, which God of his mercy avert and let all thoſe that wiſh the peace of <hi>Sign,</hi> ſay <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:156293:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
